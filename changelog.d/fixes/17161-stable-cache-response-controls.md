@@ -1,0 +1,1 @@
+- **fix(cache):** Isolate cached replies by canonical response controls, including reasoning effort and token caps; version exact keys and exclude controlled requests from fuzzy cache matching.
