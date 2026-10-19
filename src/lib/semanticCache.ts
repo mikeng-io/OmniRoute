@@ -167,6 +167,7 @@ const GENERATION_PARAM_KEYS = [
   "stop",
   "presence_penalty",
   "frequency_penalty",
+  "repetition_penalty",
   "logit_bias",
   "max_output_tokens",
   "effort",

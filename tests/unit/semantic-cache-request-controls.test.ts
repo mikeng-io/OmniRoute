@@ -60,6 +60,7 @@ test("effort, each token cap, and supported response controls separate identitie
     { stop: "" },
     { presence_penalty: 0 },
     { frequency_penalty: 0 },
+    { repetition_penalty: 1.2 },
     { logit_bias: { "10": -1 } },
     { top_k: 0 },
     { response_format: { type: "json_object" } },
